@@ -3,7 +3,7 @@
 <h3>🎓 - Cursando Analise e Desenvolvimento de Sistema 1/3</h3>
 
 <h3>👾 - Linguagens</h3>
-<ul>
+<ul style="padding-left: 10px;">
     <li>PHP</li>
     <li>C++</li>
     <li>MYSQL</li>
